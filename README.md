@@ -7,12 +7,12 @@
 
 
 Carpeta challenge:
-<ol>
+<ul>
   <li>Carpeta contenedora del código de backend realizado en C# con asp.net-core</li>
-</ol>
+</ul>
 
 
 Carpeta react--app:
-<ol>
+<ul>
   <li>Carpeta contenedora del códgo de frontend usando react.</li>
-</ol>
+</ul>
